@@ -1,0 +1,21 @@
+name: MuaMoney
+main: MuaMoney\Main
+version: 1.1
+api: 3.0.0
+author: KhongNho
+# Không nhớ :v
+# Edit By HituilaHuy
+# Team CastleVN
+# Facebook: facebook.com/huyyt0911
+# Youtube: HituilaHuy Tv
+# =====================
+# IP: Castlevnpe.ddns.net
+# Port: 19132
+depent:
+- PointAPI
+- EconomyAPI
+
+commands:
+  muamoney:
+    aliases: ["muaxu"]
+    description: Mở Menu Mua Xu Bằng CastleCoin
