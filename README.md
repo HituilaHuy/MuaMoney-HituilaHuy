@@ -1,14 +1,14 @@
-# MuaXu v1.0
+# MuaMoney v1.0
 /muaxu để mở list gói xu, mua bằng point
 - Cần: PointAPI
 - Edit By HituilaHuy
 - Gồm Các Gói Xu: 100,000 Xu; 1,000,000 Xu; 10,000,000 Xu; 100,000,000 Xu
 - Có thể edit giá point tại config
 
-# MuaXu v1.1 (Bản Hiện Tại)
+# MuaMoney v1.1 (Bản Hiện Tại)
 - Điều Chỉnh: Có thể Edit nút "Đồng Ý" hoặc "Từ Chối" tại config
 
-# MuaXu v2.0 (Comming Soon)
+# MuaMoney v2.0 (Comming Soon)
 - Update Chỉnh Xu tại config
 - Có thể thêm gói và tuỳ chỉnh xu tại config
 
