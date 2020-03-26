@@ -13,9 +13,7 @@
 - Có thể thêm gói và tuỳ chỉnh xu tại config
 
 ========================================
-# English:
-
-# BuyMoney v1.0
+# English: BuyMoney v1.0
 /muaxu to open the list of coin packages, buy with points
 - Need: PointAPI
 - Edit By HituilaHuy
