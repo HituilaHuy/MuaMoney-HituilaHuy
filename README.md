@@ -5,8 +5,12 @@
 - Gồm Các Gói Xu: 100,000 Xu; 1,000,000 Xu; 10,000,000 Xu; 100,000,000 Xu
 - Có thể edit giá point tại config
 
-# MuaMoney v1.1 (Bản Hiện Tại)
+# MuaMoney v1.1 
 - Điều Chỉnh: Có thể Edit nút "Đồng Ý" hoặc "Từ Chối" tại config
+
+# MuMoney v1.2 (Bản Hiện Tại)
+- Fix lỗi config sai giá
+- Fix lỗi nút mua
 
 # MuaMoney v2.0 (Comming Soon)
 - Update Chỉnh Xu tại config
@@ -20,8 +24,12 @@
 - Including Coin Packages: 100,000 Money;  1,000,000 Money;  10,000,000 Money;  100,000,000 Money
 - Can edit price point at config
 
-# BuyMoney v1.1 (Current Version)
+# BuyMoney v1.1
 - Adjust: Can Edit "Agree" or "Reject" button at config
+
+# MuMoney v1.2 (Current Version)
+ - Fix wrong configuration error price
+ - Fix purchase button error
 
 # BuyMoney v2.0 (Comming Soon)
 - Update Edit Money at config
