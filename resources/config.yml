@@ -17,10 +17,11 @@ Goi4: Gói 100,000,000 Xu
 
 # - Giá Gói Xu (Point) -
 
-GiaGoi1: 50
-GiaGoi2: 100
-GiaGoi3: 300
-GiaGoi4: 500
+GiaGoi1: 1
+GiaGoi2: 10
+GiaGoi3: 100
+GiaGoi4: 1000
+
 
 # - Xác Nhận Mua Vip -
 
