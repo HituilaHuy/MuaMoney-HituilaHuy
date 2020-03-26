@@ -68,11 +68,11 @@ class Main extends PluginBase implements Listener {
 		});
 		$point = $this->pointapi->myPoint($sender);
 		$form->setTitle("§l§4• §cMua Xu §4•");
-				$form->setContent("§l§6+§a Point của bạn: §f$point\n§6+ §ẫHy chọn Gói bạn muốn mua !");
-		$form->addButton("§l§6• §cGói 100,000 §6• §6Giá: §f1 Point", 0);
-		$form->addButton("§l§6• §cGói 1,000,000 §6• §6Giá: §f10 Point", 1);
-		$form->addButton("§l§6• §cGói 10,000,000 §6• §6Giá: §f100 Point", 2);
-	    $form->addButton("§l§6• §cGói 100,000,000 §6• §6Giá: §f1000 Point", 3);
+				$form->setContent("§l§6+§a Point của bạn: §f$point\n§6+§a Hãy chọn Gói bạn muốn mua !");
+		$form->addButton("§l§6• §cGói 100,000 §6•\n§aGiá: §f1 Point", 0);
+		$form->addButton("§l§6• §cGói 1,000,000 §6•\n§aGiá: §f10 Point", 1);
+		$form->addButton("§l§6• §cGói 10,000,000 §6•\n§aGiá: §f100 Point", 2);
+	    $form->addButton("§l§6• §cGói 100,000,000 §6•\n§aGiá: §f1000 Point", 3);
 		$form->sendToPlayer($sender);
 			return $form;
 	}
