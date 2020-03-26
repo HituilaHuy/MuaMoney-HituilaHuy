@@ -50,3 +50,5 @@
 
 # Lưu Ý:
 - Bảng ở trên là được edit dành cho Server CastleVN nên được ghi là CastleCoin, nếu bạn muốn dùng cho server bạn thì hãy edit lại !
+
+# Phar: https://www.mediafire.com/file/u3eiekj1m3vc84n/MuaMoney-HituilaHuy.phar/file
