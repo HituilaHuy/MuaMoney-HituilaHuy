@@ -12,7 +12,7 @@
 - Update Chỉnh Xu tại config
 - Có thể thêm gói và tuỳ chỉnh xu tại config
 
-========================================
+# ========================================
 # English: BuyMoney v1.0
 /muamoney to open the list of money packages, buy with points
 - Need: PointAPI
@@ -29,7 +29,7 @@
 
 * Translated by: Google Translate
 
-========================================
+# ========================================
 
 - Facebook: faceboock.com/huyyt0911
 - Youtube: HituilaHuy TV 
