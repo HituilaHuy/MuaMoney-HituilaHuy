@@ -1,0 +1,41 @@
+# CONFIG PLUGIN MUAMONEY
+
+# Edit By HituilaHuy
+# Team CastleVN
+# Facebook: facebook.com/huyyt0911
+# Youtube: HituilaHuy Tv
+# =====================
+# IP: Castlevnpe.ddns.net
+# Port: 19132
+
+# - Tên Gói Xu -
+
+Goi1: Gói 100,000 Xu
+Goi2: Gói 1,000,000 Xu
+Goi3: Gói 10,000,000 Xu
+Goi4: Gói 100,000,000 Xu
+
+# - Giá Gói Xu (Point) -
+
+GiaGoi1: 50
+GiaGoi2: 100
+GiaGoi3: 300
+GiaGoi4: 500
+
+# - Xác Nhận Mua Vip -
+
+ButtonDongY: §aĐồng Ý
+ButtonTuChoi: §cTừ Chối
+
+# - Mua Thành Công -
+
+MuaThanhCongTitle: §l§6• §cMua Gói Xu Thành Công §6•
+MuaThanhCongContent: §aBạn đã mua thành công gói này!
+MuaThanhCongSubmit: Xong
+
+# - Mua Thất Bại -
+
+MuaThatBaiTitle: §l§6• §cMua Gói Xu Thất Bại §6•
+MuaThatBaiContent: §cBạn không đủ tiền để mua gói này!
+MuaThatBaiSubmit: Xong
+...
