@@ -1,5 +1,5 @@
 # MuaMoney v1.0
-/muaxu để mở list gói xu, mua bằng point
+/muamoney để mở list gói xu, mua bằng point
 - Cần: PointAPI
 - Edit By HituilaHuy
 - Gồm Các Gói Xu: 100,000 Xu; 1,000,000 Xu; 10,000,000 Xu; 100,000,000 Xu
@@ -14,7 +14,7 @@
 
 ========================================
 # English: BuyMoney v1.0
-/muaxu to open the list of coin packages, buy with points
+/muamoney to open the list of money packages, buy with points
 - Need: PointAPI
 - Edit By HituilaHuy
 - Including Coin Packages: 100,000 Money;  1,000,000 Money;  10,000,000 Money;  100,000,000 Money
@@ -39,3 +39,6 @@
 # My Server MCPE:
 - IP: castlevnpe.ddns.net
 - Port: 19132
+
+# Lưu Ý:
+- Bảng ở trên là được edit dành cho Server CastleVN nên được ghi là CastleCoin, nếu bạn muốn dùng cho server bạn thì hãy edit lại !
