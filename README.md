@@ -31,11 +31,11 @@
 
 ========================================
 
-Facebook: faceboock.com/huyyt0911
-Youtube: HituilaHuy TV 
-Nhóm CastleVN: bit.do/nhomcastlevn
-Vote Server CastleVN:bit.do/votecastlevn
+- Facebook: faceboock.com/huyyt0911
+- Youtube: HituilaHuy TV 
+- Nhóm CastleVN: bit.do/nhomcastlevn
+- Vote Server CastleVN:bit.do/votecastlevn
 
-My Server MCPE:
-IP: castlevnpe.ddns.net
-Port: 19132
+# My Server MCPE:
+- IP: castlevnpe.ddns.net
+- Port: 19132
